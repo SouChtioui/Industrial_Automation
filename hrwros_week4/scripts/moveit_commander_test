@@ -1,0 +1,4 @@
+use robot1_group
+go R1UP
+go down 0.7
+go left 0.5
